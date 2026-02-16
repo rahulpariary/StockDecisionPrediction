@@ -201,5 +201,5 @@ project/
 
 ## 👤 Author
 
-Adesh Chatterjee
+Rahul Pariary
 Data Science Intern Candidate
